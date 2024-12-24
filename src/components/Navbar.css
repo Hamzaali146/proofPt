@@ -1,12 +1,12 @@
 .Navbar{
     display: flex;
     height: 70px;
-    font-size: 16px;
+    font-size: 17px;
     font-weight: 500;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: "Doppio One", serif;
     justify-content: center;
     /* background-color: #61dafb81; */
-    color: #333;
+    color: #fff;
     font-weight: 500  ;
   }
   
@@ -35,7 +35,8 @@
     align-items: center;
     justify-content:flex-start;
     width: 40vw;
-    font-size: 17px;
+    font-size: 18px;
+    font-weight: bolder;
     /* padding-left: 40px; */
     /* background-color:purple; */
   
